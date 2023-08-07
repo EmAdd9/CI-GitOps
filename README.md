@@ -165,3 +165,6 @@ jdbc:h2:mem:shopping_cart_db
 
 In `/src/main/resources/application.properties` file it is possible to change both
 web interface url path, as well as the datasource url.
+
+# Acknowledgement
+Acknowledging the contributions of [Spring Project](https://github.com/spring-projects/spring-petclinic.git) , [Aditya Jaiswal](https://github.com/jaiswaladi246/Petclinic.git) and all other open-source contributors to the original project. This fork aims to extend their excellent work, and I'm honored to recognize their impact on its development.
